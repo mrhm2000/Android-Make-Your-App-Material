@@ -1,0 +1,5 @@
+<resources>
+    <integer name="detailColCountList">3</integer>
+    <dimen name="detailPhotoHeight">224dp</dimen>
+    <dimen name="detailInnerHorMargin">112dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetRight="112dp">
+    <shape>
+        <solid android:color="@color/dividerLine" />
+        <size android:width="@dimen/one_dp" android:height="@dimen/one_dp" />
+    </shape>
+</inset>

@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="sideMarginListToolbar">0dp</dimen>
+    <integer name="detailColCountList">2</integer>
+    <dimen name="sideMarginList">@dimen/four_dp</dimen>
+    <dimen name="detailBarTittleBottomPad">4dp</dimen>
+    <bool name="detailCard">false</bool>
+    <dimen name="detailInnerHorMargin">16dp</dimen>
+    <dimen name="detailBarVerPad">16dp</dimen>
+    <dimen name="detailBodyTop">16dp</dimen>
+    <dimen name="detailBodyBottom">88dp</dimen>
+    <dimen name="detailPhotoHeight">304dp</dimen>
+    <dimen name="detailTopMargin">@dimen/detailPhotoHeight</dimen>
+    <dimen name="detailMaxWidth">10000dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <integer name="detailColCountList">3</integer>
+    <dimen name="sideMarginListToolbar">52dp</dimen>
+    <dimen name="sideMarginList">64dp</dimen>
+    <dimen name="detailMaxWidth">704dp</dimen>
+</resources>

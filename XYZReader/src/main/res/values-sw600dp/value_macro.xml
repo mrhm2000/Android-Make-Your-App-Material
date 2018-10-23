@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="detailBarTittleBottomPad">8dp</dimen>
+    <dimen name="detailBarVerPad">32dp</dimen>
+    <dimen name="detailInnerHorMargin">64dp</dimen>
+    <dimen name="detailBodyBottom">96dp</dimen>
+    <dimen name="detailPhotoHeight">384dp</dimen>
+    <dimen name="detailTopMargin">384dp</dimen>
+</resources>

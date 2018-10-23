@@ -1,0 +1,5 @@
+<resources>
+    <bool name="detailCard">true</bool>
+    <dimen name="detailPhotoHeight">600dp</dimen>
+    <dimen name="detailTopMargin">256dp</dimen>
+</resources>
